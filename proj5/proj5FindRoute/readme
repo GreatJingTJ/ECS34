@@ -1,0 +1,9 @@
+Cite: https://blog.csdn.net/mimi9919/article/details/51219176
+two functions in src/Maprouter.cpp findshortest and find fastest  we are using from the above link
+Cite https://stackoverflow.com/questions/15306463/getchar-returns-the-same-value-27-for-up-and-down-arrow-keys
+one function in src/findroute.cpp we are using from the above link
+
+Makefile idea from TA Nick and Professor Nitta
+the reading part from Professor Nitta
+We use two matrixes to store the distance and time 
+link: https://github.com/GreatJingTJ/ECSProj5
